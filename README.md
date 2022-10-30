@@ -19,7 +19,7 @@
 
 *Hi, I'm* ✨ [JackyChenNn](https://jackychennn.com) ✨ *, a student from School of Computer Science and Engineering of Macau University of Science and Technology.* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📫 How to reach me: ✉️ [Email](mailto:jackychen1006@gmail.com) OR ![Wechat](https://img.shields.io/badge/JackyhenNn-5fcd72.svg?logo=wechat&logoColor=white)
+- 📫 How to reach me: ✉️ [Email](mailto:jackychen1006@gmail.com) OR ![Wechat](https://img.shields.io/badge/JackyChenNn-5fcd72.svg?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help;
 
 <!--
